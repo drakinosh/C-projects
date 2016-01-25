@@ -7,7 +7,7 @@ piano emulator for GNU/Linux
 #include <alsa/asoundlib.h>
 #include <math.h>
 #include <string.h>
-
+#include <stdlib.>
 
 #define BUFSIZE 320000
 #define ACT_BUFSIZE BUFSIZE 
