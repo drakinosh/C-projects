@@ -9,7 +9,7 @@ piano emulator for GNU/Linux
 #include <string.h>
 
 
-#define BUFSIZE 32000
+#define BUFSIZE 320000
 #define ACT_BUFSIZE BUFSIZE 
 #define MINBUFSIZE 10000
 #define NOTESIZE 4
